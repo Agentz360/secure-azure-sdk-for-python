@@ -1,6 +1,6 @@
 # Release History
 
-## 1.38.2 (Unreleased)
+## 1.38.3 (Unreleased)
 
 ### Features Added
 
@@ -8,9 +8,13 @@
 
 ### Bugs Fixed
 
-- Fixed `PipelineClient.format_url` to preserve the leading slash when the URL template starts with `/?`. #45218
-
 ### Other Changes
+
+## 1.38.2 (2026-02-18)
+
+### Bugs Fixed
+
+- Fixed `PipelineClient.format_url` to preserve the leading slash when the URL template starts with `/?`. #45218
 
 ## 1.38.1 (2026-02-10)
 
